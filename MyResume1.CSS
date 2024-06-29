@@ -1,0 +1,109 @@
+.Name{
+    
+    color: black;
+    display: flexbox;
+    border: 2px solid aqua;
+    padding-bottom:  20px;
+    padding-top:5px ;
+line-height: 0px;
+font-size: 13px;
+
+
+}
+.Name1:hover{
+    color: blue;
+    font-size:20px;
+}
+.Details{
+    margin-left: 70%;    
+}
+.Details:hover{
+    color: rgb(27, 11, 193);
+    font-size:17px;
+}
+#linkedIn:hover , #github:hover{
+    color: rgba(84, 172, 6, 0.872);
+    font-family:cursive;
+    cursor: pointer;
+}
+
+
+.ps:hover{
+color:orangered;
+
+}
+
+.ps:hover{
+    color: blue;
+    font-size:20px;
+}
+.ex:hover,.Eq:hover,.ps:hover,.jr:hover,.sk:hover,.pj:hover{
+    color:orangered;
+    font-size: 20px;
+    }
+    
+.Skill{
+    display : flex;
+    margin-left: 0;
+    margin-right:4px;
+} 
+.softSkill{
+    margin-left: 70px;
+
+    }
+.extra{
+    
+    margin-right: 470px;
+}
+ .Hobbies{
+    
+    margin-left: 100px;
+    text-align: left; 
+    
+} 
+.image{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+    margin-right: -30%;
+}
+.keywords{
+    margin-left: 30px;
+    border-style: double;
+    border-color: orangered;
+    border-width: 5px;
+    border-radius: 10px;
+    width: 350px;
+    height:600px;
+    background-color: yellow;
+    padding-left: 4%;
+    margin-top: 0%;
+
+
+}
+.hw:hover{
+    color:blue;
+    font-family: arial;
+    font-size: 20px;       
+}
+.image{
+    width:5px;
+    height:40%;
+    padding-left: 60%;
+     margin-left: 35%;
+     border: 5px solid orange ;
+     border-radius:10px ;
+     background-image:url(Ashishimg.jpg);
+     background-size:100%;
+
+}
+.image:hover{
+    transform:scale(1.1);
+    filter:grayscale(0%);
+
+}
+                        
+                    
+                            
+    
+
